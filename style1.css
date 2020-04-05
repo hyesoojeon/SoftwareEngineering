@@ -1,0 +1,21 @@
+.headline { 
+		color: darkred;
+		text-align: center;
+	}
+	body.main {
+		background-color: skyblue;
+	}
+	div.help {
+		color: blue;
+	}
+	p.help {
+		color: red;
+		font-size: 30px;
+	}
+	.hot {
+		color: blue;
+		background-color: orange;
+	}
+	hr{
+		color: orange;
+	}
