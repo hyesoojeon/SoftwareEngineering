@@ -6,11 +6,11 @@
 		background-color: skyblue;
 	}
 	div.help {
-		color: yellow;
+		color: darkgreen;
 	}
 	p.help {
 		color: red;
-		font-size: 80px;
+		font-size: 90px;
 	}
 	.hot {
 		color: blue;
